@@ -8,14 +8,14 @@ Projects such as PoliticalMashup and DiLiPaD have created repositories of digiti
 
 ### Timetable
 
-|   |   |
-|---|---|
-|1300-1400|   |
-|1400-1430|   |
-|1430-1500|   |
-|1500-1530|   |
-|1530-1600|   |
-|1600-1630|   |
+| Time  |Speaker|Talk|
+|---|---|---|
+|1300-1400|Jo Guldi|A Distant Reading of Property: inding Evidence of a Revolution Around Rights to Occupation in the Debates of Britain's Parliament, 1806-1911|
+|1400-1430|Ida Nijenhuis & Marijn Koolen|
+|1430-1500|Milan van Lange|
+|1500-1530|Cofee Break|
+|1530-1600|Darja Fišer|
+|1600-1630|Kaspar Beelen|
 |1630-1715|Panel Discussion|
 |1715-1830|Drinks|
 

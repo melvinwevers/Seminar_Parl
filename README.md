@@ -8,16 +8,16 @@ Projects such as PoliticalMashup and DiLiPaD have created repositories of digiti
 
 ### Timetable
 
-| Time  |Speaker|Talk|
+| Time  |Speaker|Title|
 |---|---|---|
 |1300-1400|Jo Guldi|A Distant Reading of Property: inding Evidence of a Revolution Around Rights to Occupation in the Debates of Britain's Parliament, 1806-1911|
-|1400-1430|Ida Nijenhuis & Marijn Koolen|
-|1430-1500|Milan van Lange|
-|1500-1530|Cofee Break|
-|1530-1600|Darja Fišer|
-|1600-1630|Kaspar Beelen|
-|1630-1715|Panel Discussion|
-|1715-1830|Drinks|
+|1400-1430|Ida Nijenhuis & Marijn Koolen|REPUBLIC: Extracting Meaning from Structure in Historical Political Corpora|
+|1430-1500|Milan van Lange|TBA|
+|1500-1530|Cofee Break||
+|1530-1600|Darja Fišer|TBA|
+|1600-1630|Kaspar Beelen|Have Women Changed the Political Debate? Studying the Substantive Representation of Women in Postwar Britain|
+|1630-1715|Panel Discussion||
+|1715-1830|Drinks||
 
 13:00-1400: Keynote Jo Guldi - A Distant Reading of Property: inding Evidence of a Revolution Around Rights to Occupation in the Debates of Britain's Parliament, 1806-1911"
 
@@ -69,8 +69,7 @@ In his research he uses digitised historical text corpora and text mining to ide
 
 15:30-16:00: Darja Fiser (CLARIN) - Parliamentary data processing
 
-16:00-16:30: Kaspar Beelen (Turing Institute) - Gender in British Parliament
-Have Women Changed the Political Debate? Studying the Substantive Representation of Women in Postwar Britain
+16:00-16:30: Kaspar Beelen (Turing Institute) - Have Women Changed the Political Debate? Studying the Substantive Representation of Women in Postwar Britain
 
 After Tony Blair's landslide victory in 1997, 120 female MPs were returned. Overnight the number of women MPs doubled. To what extent, however, has the increasing presence of women in Parliament made more than a symbolic difference? In Westminster, and across the world, the question of whether female legislators have
 changed the substance of debate has generated enormous interest amongst political scientists and, to a lesser extent, among contemporary historians. In this presentation, we analyse whether the growing presence of women has changed the agenda of Westminster, and made it more receptive to the priorities of women MPs (as they have been articulated over time). We tackle this question as follows: First, we determine what issues women MPs have focused on—measured by calculating what policy issues they have engaged with.  Secondly, we measure the difference women legislators made by quantifying motions they moved and the debate they thus generated. Lastly, we attempt to quantify how influential women’s voices were over the last sixty years, by computing if their contributions resonated in the debates in which they participated.

@@ -2,16 +2,17 @@
 
 Date: March 24, 2020 <br />
 Time: 13:00 - 18:30
-Location: Spinhuis 
+Location: Spinhuis
+
 
 ## Summary
-Projects such as PoliticalMashup and DiLiPaD have created repositories of digitized historical parliamentary records. In early 2019, the ParlaFormat workshop presented different digitized and annotated corpora of parliamentary data. These resources enable scholars to apply computational methods to study topics and the structure of discourse in such debates. This workshop presents an overview of recent efforts in the field of digital history that studied parliamentary records from the Netherlands, the United Kingdom, and the European Union. This workshop focuses on methods to analyze the data in order to answer historical questions.
+Projects such as [PoliticalMashup](https://www.politicalmashup.nl/) and [DiLiPaD](https://www.esciencecenter.nl/project/dilipad) have created repositories of digitized historical parliamentary records. In early 2019, the ParlaFormat workshop presented different digitized and annotated corpora of parliamentary data. These resources enable scholars to apply computational methods to study topics and the structure of discourse in such debates. This workshop presents an overview of recent efforts in the field of digital history that studied parliamentary records from the Netherlands, the United Kingdom, and the European Union. This workshop focuses on methods to analyze the data in order to answer historical questions.
 
 ## Timetable
 
 | Time  |Talk|
 |---|---|
-|13:00-14:00|[Jo Guldi - A Distant Reading of Property: inding Evidence of a Revolution Around Rights to Occupation in the Debates of Britain's Parliament, 1806-1911](#talk1)|
+|13:00-14:00|[KEYNOTE Jo Guldi - A Distant Reading of Property: inding Evidence of a Revolution Around Rights to Occupation in the Debates of Britain's Parliament, 1806-1911](#talk1)|
 |14:00-14:30|[Ida Nijenhuis & Marijn Koolen - REPUBLIC: Extracting Meaning from Structure in Historical Political Corpora](#talk2)|
 |14:30-15:00|[Milan van Lange - TBA](#talk3)|
 |15:00-15:30|Coffee Break|
@@ -21,7 +22,7 @@ Projects such as PoliticalMashup and DiLiPaD have created repositories of digiti
 |17:15-18:30|Drinks|
 
 ### Talks
-### <a name='talk1'>Jo Guldi - A Distant Reading of Property: Finding Evidence of a Revolution Around Rights to Occupation in the Debates of Britain's Parliament, 1806-1911</a>
+### <a name='talk1'>KEYNOTE Jo Guldi - A Distant Reading of Property: Finding Evidence of a Revolution Around Rights to Occupation in the Debates of Britain's Parliament, 1806-1911</a>
 
 #### Abstract
 Conservative accounts of the history of property law describe a set of principles unchanged since Locke, much like Newton's discovery of gravity.  What happens when we use computational techniques to detect continuity and discontinuity in the language of property over the timescale of a century?  This talk presents evidence that something like a revolution in property in fact occurred in Britain's discussion of property law, eviction, rent control, and empire around 1881-6, based on multiple, quantitative approaches to the longue-duree history of legal discourse.  
@@ -46,6 +47,8 @@ _Ida Nijenhuis_ studied History at Groningen University where she was awarded a 
 
 ### <a name='talk3'>Milan van Lange - Sentiment Analysis of Dutch Parliamentary Debates</a>
 #### Abstract
+This presentation deals with the investigation of parliamentary debates on post-war legislation and commemoration of the anti-Nazi resistance in the Netherlands (1945-1989). The historical analysis of the digitized minutes of Dutch parliament is enhanced by using emotion mining techniques to identify and describe developments in attitudes and emotional expressions. I will address the historical case, the materials and techniques used, and preliminary results. Moreover, methodological reflection is addressed to more general advantages and limitations of using quantitative text analysis in diachronic historical research.
+ 
 
 #### Biography
 _Milan van Lange_ studied History at the Radboud Universiteit in Nijmegen. Since 2016 he works as a PhD-candidate at the NIOD Institute for War, Holocaust, and Genocide Studies in Amsterdam and Utrecht University. From February till May 2019 Milan worked as a PhD Research Fellow at The Luxembourg Centre for Contemporary and Digital History (C²DH) located in Belval, Luxembourg.

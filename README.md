@@ -7,6 +7,18 @@ Time: 13:00 - 18:30
 Projects such as PoliticalMashup and DiLiPaD have created repositories of digitized historical parliamentary records. In early 2019, the ParlaFormat workshop presented different digitized and annotated corpora of parliamentary data. These resources enable scholars to apply computational methods to study topics and the structure of discourse in such debates. This workshop presents an overview of recent efforts in the field of digital history that studied parliamentary records from the Netherlands, the United Kingdom, and the European Union. This workshop focuses on methods to analyze the data in order to answer historical questions.
 
 ### Timetable
+
+|   |   |
+|---|---|
+|1300-1400|   |
+|1400-1430|   |
+|1430-1500|   |
+|1500-1530|   |
+|1530-1600|   |
+|1600-1630|   |
+|1630-1715|Panel Discussion|
+|1715-1830|Drinks|
+
 13:00-1400: Keynote Jo Guldi - A Distant Reading of Property: inding Evidence of a Revolution Around Rights to Occupation in the Debates of Britain's Parliament, 1806-1911"
 
 14:00-14:30: Ida Nijenhuis & Marijn Koolen - REPUBLIC: Extracting Meaning from Structure in Historical Political Corpora

@@ -3,40 +3,38 @@
 Date: March 24, 2020 <br />
 Time: 13:00 - 18:30
 
-### Summary
+## Summary
 Projects such as PoliticalMashup and DiLiPaD have created repositories of digitized historical parliamentary records. In early 2019, the ParlaFormat workshop presented different digitized and annotated corpora of parliamentary data. These resources enable scholars to apply computational methods to study topics and the structure of discourse in such debates. This workshop presents an overview of recent efforts in the field of digital history that studied parliamentary records from the Netherlands, the United Kingdom, and the European Union. This workshop focuses on methods to analyze the data in order to answer historical questions.
 
-### Timetable
+## Timetable
 
-| Time  |Speaker|Title|
-|---|---|---|
-|13:00-14:00|Jo Guldi|[A Distant Reading of Property: inding Evidence of a Revolution Around Rights to Occupation in the Debates of Britain's Parliament, 1806-1911](#talk1)|
-|14:00-14:30|Ida Nijenhuis & Marijn Koolen|[REPUBLIC: Extracting Meaning from Structure in Historical Political Corpora](#talk2)|
-|14:30-15:00|Milan van Lange|[TBA](#talk3)|
-|15:00-15:30|Cofee Break||
-|15:30-16:00|Darja Fišer|[TBA](#talk4)|
-|16:00-16:30|Kaspar Beelen|[Have Women Changed the Political Debate? Studying the Substantive Representation of Women in Postwar Britain](#talk5)|
-|16:30-17:15|Panel Discussion||
-|17:15-18:30|Drinks||
-
-
+| Time  |Talk|
+|---|---|
+|13:00-14:00|[Jo Guldi - A Distant Reading of Property: inding Evidence of a Revolution Around Rights to Occupation in the Debates of Britain's Parliament, 1806-1911](#talk1)|
+|14:00-14:30|[Ida Nijenhuis & Marijn Koolen - REPUBLIC: Extracting Meaning from Structure in Historical Political Corpora](#talk2)|
+|14:30-15:00|[Milan van Lange - TBA](#talk3)|
+|15:00-15:30|Cofee Break|
+|15:30-16:00|[Darja Fišer - TBA](#talk4)|
+|16:00-16:30|[Kaspar Beelen - Have Women Changed the Political Debate? Studying the Substantive Representation of Women in Postwar Britain](#talk5)|
+|16:30-17:15|Panel Discussion|
+|17:15-18:30|Drinks|
 
 ### Talks
-#### <a name='talk1'>Jo Guldi - A Distant Reading of Property: Finding Evidence of a Revolution Around Rights to Occupation in the Debates of Britain's Parliament, 1806-1911</a>
+### <a name='talk1'>Jo Guldi - A Distant Reading of Property: Finding Evidence of a Revolution Around Rights to Occupation in the Debates of Britain's Parliament, 1806-1911</a>
 
-##### Abstract
+#### Abstract
 Conservative accounts of the history of property law describe a set of principles unchanged since Locke, much like Newton's discovery of gravity.  What happens when we use computational techniques to detect continuity and discontinuity in the language of property over the timescale of a century?  This talk presents evidence that something like a revolution in property in fact occurred in Britain's discussion of property law, eviction, rent control, and empire around 1881-6, based on multiple, quantitative approaches to the longue-duree history of legal discourse.  
 
-##### Biography
+#### Biography
 Jo Guldi is an Associate Professor of the History of Britain and its Empire at Southern Methodist University.  She is also PI of a $1 million NSF grant called "The Unaffordable World."  She founded and directs Think-Play-Hack, an interdisciplinary summer school and hackathon.   She also directs Democracy Lab, a multi-university initiative to create a transparent infrastructure for text mining the transcripts of democratic debate.   She is author of Roads to Power (Harvard 2011) and co-author, with David Armitage, of The History Manifesto (Cambridge 2014).  She has recently published several articles relating to best methods for applying critical theory to quantitative text-mining, as well as more traditional articles on the history of rent and eviction in western cities.
 
-#### <a name='talk2'>*Ida Nijenhuis & Marijn Koolen - REPUBLIC - Extracting Meaning from Structure in Historical Political Corpora*</a>
-_Abstract_ <br />
+### <a name='talk2'>*Ida Nijenhuis & Marijn Koolen - REPUBLIC - Extracting Meaning from Structure in Historical Political Corpora*</a>
+#### Abstract
 The Republic project aims to make the Resolutions of the States General of the Dutch Republic (1576-1796) digitally accessible. This large corpus consists of hundreds of thousands of pages of handwritten and printed texts. The typical approach in digitisation projects for such corpora is to use a combination of text recognition techniques (OCR, HTR) and information extraction techniques. Researchers who want to mine useful information from such corpora, using modern Natural Language Processing techniques like Named Entity Recognition and Topic Modelling, often run into problems caused by a combination of text recognition errors, historical spelling and vocabulary and spelling variation.
 
 In this project we are developing an alternative method of making the corpus accessible by extracting information using our knowledge of its structure (layout, indices, temporal ordering, use of repetitive and formulaic language) as well as of its domain of political debate. By incorporating this knowledge in our algorithms and models, we can operationalise the intellectual effort that went into creating and structuring this corpus despite the recognition and historical linguistic issues. We will demonstrate how this structural information can be used for both qualitative and quantitative historical research.
 
-_Biographies_ <br />
+#### Biographies
 *Ida Nijenhuis* studied History at Groningen University where she was awarded a PhD in 1992 for her thesis on the Jewish philosophe Isaac de Pinto (1717-1787). She taught at the history departments of Leiden and Utrecht University before she became a senior-researcher at Huygens ING in 1998. She accomplished a digital born edition of the resolutions of the Dutch States General, 1626-1630 (http://resources.huygens.knaw.nl/besluitenstatengeneraal1576-1630/BesluitenStaten-generaal1626-1651). From 2009 until 2017 she held the Huygens ING chair in source-criticism at the Faculty of Arts, Radboud University Nijmegen. In 2016 she was a research fellow at the Center for the History of Political Economy, Duke University, Durham N.C. Presently she leads the project that aims at the complete digital edition of the resolutions of the Dutch States General 1576-1796 and furthermore she prepares a book on the history of Dutch economic thought: Between power and market. A history of Dutch commercial republicanism, 1600-1800.
 
 *Marijn Koolen* is a researcher and developer at the KNAW Humanities Cluster, involved in several research projects and digital infrastructure projects within the fields of Digital Humanities, Information Retrieval and Recommender Systems. As a developer his work is related to the Dutch research infrastructure project CLARIAH.

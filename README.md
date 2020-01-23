@@ -14,7 +14,7 @@ Projects such as PoliticalMashup and DiLiPaD have created repositories of digiti
 |13:00-14:00|[Jo Guldi - A Distant Reading of Property: inding Evidence of a Revolution Around Rights to Occupation in the Debates of Britain's Parliament, 1806-1911](#talk1)|
 |14:00-14:30|[Ida Nijenhuis & Marijn Koolen - REPUBLIC: Extracting Meaning from Structure in Historical Political Corpora](#talk2)|
 |14:30-15:00|[Milan van Lange - TBA](#talk3)|
-|15:00-15:30|Cofee Break|
+|15:00-15:30|Coffee Break|
 |15:30-16:00|[Darja Fišer - TBA](#talk4)|
 |16:00-16:30|[Kaspar Beelen - Have Women Changed the Political Debate? Studying the Substantive Representation of Women in Postwar Britain](#talk5)|
 |16:30-17:15|Panel Discussion|

@@ -21,7 +21,7 @@ Projects such as PoliticalMashup and DiLiPaD have created repositories of digiti
 
 
 
-### Abstracts and Biographies
+### Talks
 #### <a name='talk1'>Jo Guldi - A Distant Reading of Property: Finding Evidence of a Revolution Around Rights to Occupation in the Debates of Britain's Parliament, 1806-1911</a>
 
 _Abstract_<br />
@@ -30,34 +30,36 @@ Conservative accounts of the history of property law describe a set of principle
 _Biography_<br />
 Jo Guldi is an Associate Professor of the History of Britain and its Empire at Southern Methodist University.  She is also PI of a $1 million NSF grant called "The Unaffordable World."  She founded and directs Think-Play-Hack, an interdisciplinary summer school and hackathon.   She also directs Democracy Lab, a multi-university initiative to create a transparent infrastructure for text mining the transcripts of democratic debate.   She is author of Roads to Power (Harvard 2011) and co-author, with David Armitage, of The History Manifesto (Cambridge 2014).  She has recently published several articles relating to best methods for applying critical theory to quantitative text-mining, as well as more traditional articles on the history of rent and eviction in western cities.
 
-<a name='talk2'>*Ida Nijenhuis & Marijn Koolen - REPUBLIC - Extracting Meaning from Structure in Historical Political Corpora*</a>
+#### <a name='talk2'>*Ida Nijenhuis & Marijn Koolen - REPUBLIC - Extracting Meaning from Structure in Historical Political Corpora*</a>
+_Abstract_ <br />
 The Republic project aims to make the Resolutions of the States General of the Dutch Republic (1576-1796) digitally accessible. This large corpus consists of hundreds of thousands of pages of handwritten and printed texts. The typical approach in digitisation projects for such corpora is to use a combination of text recognition techniques (OCR, HTR) and information extraction techniques. Researchers who want to mine useful information from such corpora, using modern Natural Language Processing techniques like Named Entity Recognition and Topic Modelling, often run into problems caused by a combination of text recognition errors, historical spelling and vocabulary and spelling variation.
 
 In this project we are developing an alternative method of making the corpus accessible by extracting information using our knowledge of its structure (layout, indices, temporal ordering, use of repetitive and formulaic language) as well as of its domain of political debate. By incorporating this knowledge in our algorithms and models, we can operationalise the intellectual effort that went into creating and structuring this corpus despite the recognition and historical linguistic issues. We will demonstrate how this structural information can be used for both qualitative and quantitative historical research.
 
-_Biographies_
+_Biographies_ <br />
 *Ida Nijenhuis* studied History at Groningen University where she was awarded a PhD in 1992 for her thesis on the Jewish philosophe Isaac de Pinto (1717-1787). She taught at the history departments of Leiden and Utrecht University before she became a senior-researcher at Huygens ING in 1998. She accomplished a digital born edition of the resolutions of the Dutch States General, 1626-1630 (http://resources.huygens.knaw.nl/besluitenstatengeneraal1576-1630/BesluitenStaten-generaal1626-1651). From 2009 until 2017 she held the Huygens ING chair in source-criticism at the Faculty of Arts, Radboud University Nijmegen. In 2016 she was a research fellow at the Center for the History of Political Economy, Duke University, Durham N.C. Presently she leads the project that aims at the complete digital edition of the resolutions of the Dutch States General 1576-1796 and furthermore she prepares a book on the history of Dutch economic thought: Between power and market. A history of Dutch commercial republicanism, 1600-1800.
 
 *Marijn Koolen* is a researcher and developer at the KNAW Humanities Cluster, involved in several research projects and digital infrastructure projects within the fields of Digital Humanities, Information Retrieval and Recommender Systems. As a developer his work is related to the Dutch research infrastructure project CLARIAH.
 
+#### <a name='talk3'>Milan van Lange - Sentiment Analysis of Dutch Parliamentary Debates</a>
+_Abstract_ <br />
 
-<a name='talk3'>Milan van Lange - Sentiment Analysis of Dutch Parliamentary Debates</a>
-Abstract follows .....
-
-_Biography_
+_Biography_ <br />
 Milan van Lange studied History at the Radboud Universiteit in Nijmegen. Since 2016 he works as a PhD-candidate at the NIOD Institute for War, Holocaust, and Genocide Studies in Amsterdam and Utrecht University. From February till May 2019 Milan worked as a PhD Research Fellow at The Luxembourg Centre for Contemporary and Digital History (C²DH) located in Belval, Luxembourg.
  
 In his current PhD-project ‘War & Emotions’ he investigates developments in attitudes and emotions in Dutch parliamentary debates. Milan is especially interested in the post-war dealing with the (consequences of) the German occupation of the Netherlands in World War II. His research includes (changing) meanings of justice, and the role of emotions in how parliamentarians dealt with/discussed war crimes and criminals, collaboration, victimhood, the resistance, etc.
  
 In his research he uses digitised historical text corpora and text mining to identify, describe, and analyse emotions in historical sources. During the seminar Milan will present some preliminary results of his PhD-project. He would like to discuss visualisation techniques for text mining output, and hopes to reflect on the integration of text mining output, visualisations and statistics in historical publications/narratives.
  
+#### <a name='talk4'>Darja Fišer - Parliamentary data processing</a>
+_Abstract_ <br />
 
-<a name='talk4'>Darja Fišer (CLARIN) - Parliamentary data processing</a>
+_Biography_ <br />
 
-<a name='talk5'>Kaspar Beelen (Turing Institute) - Have Women Changed the Political Debate? Studying the Substantive Representation of Women in Postwar Britain</a>
+#### <a name='talk5'>Kaspar Beelen - Have Women Changed the Political Debate? Studying the Substantive Representation of Women in Postwar Britain</a>
 
-After Tony Blair's landslide victory in 1997, 120 female MPs were returned. Overnight the number of women MPs doubled. To what extent, however, has the increasing presence of women in Parliament made more than a symbolic difference? In Westminster, and across the world, the question of whether female legislators have
-changed the substance of debate has generated enormous interest amongst political scientists and, to a lesser extent, among contemporary historians. In this presentation, we analyse whether the growing presence of women has changed the agenda of Westminster, and made it more receptive to the priorities of women MPs (as they have been articulated over time). We tackle this question as follows: First, we determine what issues women MPs have focused on—measured by calculating what policy issues they have engaged with.  Secondly, we measure the difference women legislators made by quantifying motions they moved and the debate they thus generated. Lastly, we attempt to quantify how influential women’s voices were over the last sixty years, by computing if their contributions resonated in the debates in which they participated.
+_Abstract_ <br />
+After Tony Blair's landslide victory in 1997, 120 female MPs were returned. Overnight the number of women MPs doubled. To what extent, however, has the increasing presence of women in Parliament made more than a symbolic difference? In Westminster, and across the world, the question of whether female legislators have changed the substance of debate has generated enormous interest amongst political scientists and, to a lesser extent, among contemporary historians. In this presentation, we analyse whether the growing presence of women has changed the agenda of Westminster, and made it more receptive to the priorities of women MPs (as they have been articulated over time). We tackle this question as follows: First, we determine what issues women MPs have focused on—measured by calculating what policy issues they have engaged with.  Secondly, we measure the difference women legislators made by quantifying motions they moved and the debate they thus generated. Lastly, we attempt to quantify how influential women’s voices were over the last sixty years, by computing if their contributions resonated in the debates in which they participated.
 
-_Biography_
+_Biography_ <br />
 Kaspar Beelen obtained his PhD in History at the University of Antwerp (2014). As a digital historian, Kaspar investigates how artificial intelligence can contribute to historical debates. He has worked as a post-doctoral fellow at the University of Toronto (Computer Science and Political Science Departments) and the University of Amsterdam (Institute of Informatics), where he also served as assistant professor in Digital Humanities (Media Studies Department). Kaspar currently works as a research associate at the Alan Turing Institute, London, where he investigates--as part of the “Living with Machines” project—the lived experience of the industrial revolution using data-driven approaches.

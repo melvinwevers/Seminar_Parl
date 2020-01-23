@@ -10,7 +10,7 @@ Projects such as PoliticalMashup and DiLiPaD have created repositories of digiti
 
 | Time  |Speaker|Title|
 |---|---|---|
-|13:00-14:00|[link](#talk1)Jo Guldi|A Distant Reading of Property: inding Evidence of a Revolution Around Rights to Occupation in the Debates of Britain's Parliament, 1806-1911|
+|13:00-14:00|Jo Guldi|[A Distant Reading of Property: inding Evidence of a Revolution Around Rights to Occupation in the Debates of Britain's Parliament, 1806-1911](#talk1)|
 |14:00-14:30|Ida Nijenhuis & Marijn Koolen|REPUBLIC: Extracting Meaning from Structure in Historical Political Corpora|
 |14:30-15:00|Milan van Lange|TBA|
 |15:00-15:30|Cofee Break||

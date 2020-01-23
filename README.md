@@ -29,6 +29,8 @@ Conservative accounts of the history of property law describe a set of principle
 #### Biography
 _Jo Guldi_ is an Associate Professor of the History of Britain and its Empire at Southern Methodist University.  She is also PI of a $1 million NSF grant called "The Unaffordable World."  She founded and directs Think-Play-Hack, an interdisciplinary summer school and hackathon.   She also directs Democracy Lab, a multi-university initiative to create a transparent infrastructure for text mining the transcripts of democratic debate.   She is author of Roads to Power (Harvard 2011) and co-author, with David Armitage, of The History Manifesto (Cambridge 2014).  She has recently published several articles relating to best methods for applying critical theory to quantitative text-mining, as well as more traditional articles on the history of rent and eviction in western cities.
 
+<hr/>
+
 ### <a name='talk2'>Ida Nijenhuis & Marijn Koolen - REPUBLIC - Extracting Meaning from Structure in Historical Political Corpora</a>
 #### Abstract
 The Republic project aims to make the Resolutions of the States General of the Dutch Republic (1576-1796) digitally accessible. This large corpus consists of hundreds of thousands of pages of handwritten and printed texts. The typical approach in digitisation projects for such corpora is to use a combination of text recognition techniques (OCR, HTR) and information extraction techniques. Researchers who want to mine useful information from such corpora, using modern Natural Language Processing techniques like Named Entity Recognition and Topic Modelling, often run into problems caused by a combination of text recognition errors, historical spelling and vocabulary and spelling variation.
@@ -40,6 +42,8 @@ _Ida Nijenhuis_ studied History at Groningen University where she was awarded a 
 
 *Marijn Koolen* is a researcher and developer at the KNAW Humanities Cluster, involved in several research projects and digital infrastructure projects within the fields of Digital Humanities, Information Retrieval and Recommender Systems. As a developer his work is related to the Dutch research infrastructure project CLARIAH.
 
+<hr/>
+
 ### <a name='talk3'>Milan van Lange - Sentiment Analysis of Dutch Parliamentary Debates</a>
 #### Abstract
 
@@ -48,11 +52,15 @@ _Milan van Lange_ studied History at the Radboud Universiteit in Nijmegen. Since
  
 In his current PhD-project ‘War & Emotions’ he investigates developments in attitudes and emotions in Dutch parliamentary debates. Milan is especially interested in the post-war dealing with the (consequences of) the German occupation of the Netherlands in World War II. His research includes (changing) meanings of justice, and the role of emotions in how parliamentarians dealt with/discussed war crimes and criminals, collaboration, victimhood, the resistance, etc. In his research he uses digitised historical text corpora and text mining to identify, describe, and analyse emotions in historical sources. During the seminar Milan will present some preliminary results of his PhD-project. He would like to discuss visualisation techniques for text mining output, and hopes to reflect on the integration of text mining output, visualisations and statistics in historical publications/narratives.
  
+<hr/>
+
 ### <a name='talk4'>Darja Fišer - Parliamentary data processing</a>
 #### Abstract
 
 #### Biography
 _Darja Fišer_ is Associate Professor at the Faculty of Arts, University of Ljubljana, and Senior Research Fellow at the Department of Knowledge Technologies, Jožef Stefan Institute. She is currently active in the fields of computer-mediated communication and lexical semantics using corpus-linguistics methods and natural language processing. She is principal investigator of a bilateral research project focused on the analysis of the linguistic landscape of hate speech in social media (LiLaH), project member of an interdisciplinary national basic research project on the resources, tools and methods for the understanding, identification and classification of socially unacceptable discourse in the information society (FRENK), and a collaborator on the H2020 cluster project Social Science and Humanities Open Cloud (SSHOC).
+
+<hr/>
 
 ### <a name='talk5'>Kaspar Beelen - Have Women Changed the Political Debate? Studying the Substantive Representation of Women in Postwar Britain</a>
 

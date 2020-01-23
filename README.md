@@ -1,4 +1,4 @@
-## Mining Historical Parliamentary Debates
+# Mining Historical Parliamentary Debates
 
 Date: March 24, 2020 <br />
 Time: 13:00 - 18:30
@@ -27,7 +27,7 @@ Projects such as PoliticalMashup and DiLiPaD have created repositories of digiti
 ##### Abstract
 Conservative accounts of the history of property law describe a set of principles unchanged since Locke, much like Newton's discovery of gravity.  What happens when we use computational techniques to detect continuity and discontinuity in the language of property over the timescale of a century?  This talk presents evidence that something like a revolution in property in fact occurred in Britain's discussion of property law, eviction, rent control, and empire around 1881-6, based on multiple, quantitative approaches to the longue-duree history of legal discourse.  
 
-_Biography_<br />
+##### Biography
 Jo Guldi is an Associate Professor of the History of Britain and its Empire at Southern Methodist University.  She is also PI of a $1 million NSF grant called "The Unaffordable World."  She founded and directs Think-Play-Hack, an interdisciplinary summer school and hackathon.   She also directs Democracy Lab, a multi-university initiative to create a transparent infrastructure for text mining the transcripts of democratic debate.   She is author of Roads to Power (Harvard 2011) and co-author, with David Armitage, of The History Manifesto (Cambridge 2014).  She has recently published several articles relating to best methods for applying critical theory to quantitative text-mining, as well as more traditional articles on the history of rent and eviction in western cities.
 
 #### <a name='talk2'>*Ida Nijenhuis & Marijn Koolen - REPUBLIC - Extracting Meaning from Structure in Historical Political Corpora*</a>

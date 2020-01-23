@@ -10,33 +10,19 @@ Projects such as PoliticalMashup and DiLiPaD have created repositories of digiti
 
 | Time  |Speaker|Title|
 |---|---|---|
-|1300-1400|Jo Guldi|A Distant Reading of Property: inding Evidence of a Revolution Around Rights to Occupation in the Debates of Britain's Parliament, 1806-1911|
-|1400-1430|Ida Nijenhuis & Marijn Koolen|REPUBLIC: Extracting Meaning from Structure in Historical Political Corpora|
-|1430-1500|Milan van Lange|TBA|
-|1500-1530|Cofee Break||
-|1530-1600|Darja Fišer|TBA|
-|1600-1630|Kaspar Beelen|Have Women Changed the Political Debate? Studying the Substantive Representation of Women in Postwar Britain|
-|1630-1715|Panel Discussion||
-|1715-1830|Drinks||
+|13:00-14:00|Jo Guldi|<a name='talk1'></a>A Distant Reading of Property: inding Evidence of a Revolution Around Rights to Occupation in the Debates of Britain's Parliament, 1806-1911|
+|14:00-14:30|Ida Nijenhuis & Marijn Koolen|REPUBLIC: Extracting Meaning from Structure in Historical Political Corpora|
+|14:30-15:00|Milan van Lange|TBA|
+|15:00-15:30|Cofee Break||
+|15:30-16:00|Darja Fišer|TBA|
+|16:00-16:30|Kaspar Beelen|Have Women Changed the Political Debate? Studying the Substantive Representation of Women in Postwar Britain|
+|16:30-17:15|Panel Discussion||
+|17:15-18:30|Drinks||
 
-13:00-1400: Keynote Jo Guldi - A Distant Reading of Property: inding Evidence of a Revolution Around Rights to Occupation in the Debates of Britain's Parliament, 1806-1911"
-
-14:00-14:30: Ida Nijenhuis & Marijn Koolen - REPUBLIC: Extracting Meaning from Structure in Historical Political Corpora
-
-14:30 - 15:00: Milan van Lange - Sentiment Analysis of Dutch Parliamentary Debates
-
-15:00 - 15:30: Coffee Break 
-
-15:30-16:00: Darja Fiser (CLARIN) - Parliamentary data processing
-
-16:00-16:30: Kaspar Beelen (Turing Institute) - Gender in British Parliament
-
-16:30-17:15 - Panel Discussion 
-
-17:15-18:00: DRINKS 
+### <a name="head1234"></a>A Heading in this SO entry!
 
 ### Abstracts and Biographies
-*Jo Guldi - A Distant Reading of Property: Finding Evidence of a Revolution Around Rights to Occupation in the Debates of Britain's Parliament, 1806-1911*
+[link](#talk1)*Jo Guldi - A Distant Reading of Property: Finding Evidence of a Revolution Around Rights to Occupation in the Debates of Britain's Parliament, 1806-1911*
 
 Conservative accounts of the history of property law describe a set of principles unchanged since Locke, much like Newton's discovery of gravity.  What happens when we use computational techniques to detect continuity and discontinuity in the language of property over the timescale of a century?  This talk presents evidence that something like a revolution in property in fact occurred in Britain's discussion of property law, eviction, rent control, and empire around 1881-6, based on multiple, quantitative approaches to the longue-duree history of legal discourse.  
 

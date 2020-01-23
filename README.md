@@ -1,6 +1,6 @@
 ## Mining Historical Parliamentary Debates
 
-Date: March 24, 2020
+Date: March 24, 2020 <br />
 Time: 13:00 - 18:30
 
 ### Summary

@@ -10,7 +10,7 @@ Projects such as PoliticalMashup and DiLiPaD have created repositories of digiti
 
 | Time  |Speaker|Title|
 |---|---|---|
-|13:00-14:00|Jo Guldi|<a name='talk1'></a>A Distant Reading of Property: inding Evidence of a Revolution Around Rights to Occupation in the Debates of Britain's Parliament, 1806-1911|
+|13:00-14:00|[link](#talk1)Jo Guldi|A Distant Reading of Property: inding Evidence of a Revolution Around Rights to Occupation in the Debates of Britain's Parliament, 1806-1911|
 |14:00-14:30|Ida Nijenhuis & Marijn Koolen|REPUBLIC: Extracting Meaning from Structure in Historical Political Corpora|
 |14:30-15:00|Milan van Lange|TBA|
 |15:00-15:30|Cofee Break||
@@ -22,7 +22,8 @@ Projects such as PoliticalMashup and DiLiPaD have created repositories of digiti
 ### <a name="head1234"></a>A Heading in this SO entry!
 
 ### Abstracts and Biographies
-[link](#talk1)*Jo Guldi - A Distant Reading of Property: Finding Evidence of a Revolution Around Rights to Occupation in the Debates of Britain's Parliament, 1806-1911*
+[link](#talk1)
+<a name='talk1'>*Jo Guldi - A Distant Reading of Property: Finding Evidence of a Revolution Around Rights to Occupation in the Debates of Britain's Parliament, 1806-1911*</a>
 
 Conservative accounts of the history of property law describe a set of principles unchanged since Locke, much like Newton's discovery of gravity.  What happens when we use computational techniques to detect continuity and discontinuity in the language of property over the timescale of a century?  This talk presents evidence that something like a revolution in property in fact occurred in Britain's discussion of property law, eviction, rent control, and empire around 1881-6, based on multiple, quantitative approaches to the longue-duree history of legal discourse.  
 

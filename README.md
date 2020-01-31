@@ -14,7 +14,7 @@ Projects such as [PoliticalMashup](https://www.politicalmashup.nl/) and [DiLiPaD
 |---|---|
 |13:00-14:00|[KEYNOTE Jo Guldi - A Distant Reading of Property: inding Evidence of a Revolution Around Rights to Occupation in the Debates of Britain's Parliament, 1806-1911](#talk1)|
 |14:00-14:30|[Ida Nijenhuis & Marijn Koolen - REPUBLIC: Extracting Meaning from Structure in Historical Political Corpora](#talk2)|
-|14:30-15:00|[Milan van Lange - TBA](#talk3)|
+|14:30-15:00|[Milan van Lange - Hysteria and Heroism: emotions in debating anti-Nazi resistance in Dutch parliament (1945-1989)](#talk3)|
 |15:00-15:30|Coffee Break|
 |15:30-16:00|[Darja Fišer - TBA](#talk4)|
 |16:00-16:30|[Kaspar Beelen - Have Women Changed the Political Debate? Studying the Substantive Representation of Women in Postwar Britain](#talk5)|
@@ -45,7 +45,7 @@ _Ida Nijenhuis_ studied History at Groningen University where she was awarded a 
 
 <hr/>
 
-### <a name='talk3'>Milan van Lange - Sentiment Analysis of Dutch Parliamentary Debates</a>
+### <a name='talk3'>Milan van Lange - Hysteria and Heroism: emotions in debating anti-Nazi resistance in Dutch parliament (1945-1989)</a>
 #### Abstract
 This presentation deals with the investigation of parliamentary debates on post-war legislation and commemoration of the anti-Nazi resistance in the Netherlands (1945-1989). The historical analysis of the digitized minutes of Dutch parliament is enhanced by using emotion mining techniques to identify and describe developments in attitudes and emotional expressions. I will address the historical case, the materials and techniques used, and preliminary results. Moreover, methodological reflection is addressed to more general advantages and limitations of using quantitative text analysis in diachronic historical research.
  

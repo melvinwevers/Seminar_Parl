@@ -14,13 +14,14 @@ Projects such as [PoliticalMashup](https://www.politicalmashup.nl/) and [DiLiPaD
 
 | Time  |Talk|
 |---|---|
+|12:30-13:00|Welcome & Introduction
 |13:00-14:00|[KEYNOTE Jo Guldi - A Distant Reading of Property: inding Evidence of a Revolution Around Rights to Occupation in the Debates of Britain's Parliament, 1806-1911](#talk1)|
 |14:00-14:30|[Ida Nijenhuis & Marijn Koolen - REPUBLIC: Extracting Meaning from Structure in Historical Political Corpora](#talk2)|
 |14:30-15:00|[Milan van Lange - Hysteria and Heroism: emotions in debating anti-Nazi resistance in Dutch parliament (1945-1989)](#talk3)|
 |15:00-15:30|Coffee Break|
 |15:30-16:00|[Darja Fišer - Parliamentary corpora at CLARIN ERIC](#talk4)|
 |16:00-16:30|[Kaspar Beelen - Have Women Changed the Political Debate? Studying the Substantive Representation of Women in Postwar Britain](#talk5)|
-|16:30-17:15|Panel Discussion|
+|16:30-17:15|Discussion|
 |17:15-18:30|Drinks|
 
 ### Talks

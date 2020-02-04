@@ -1,8 +1,9 @@
 # Mining Historical Parliamentary Debates
 
 Date: March 24, 2020 <br />
-Time: 13:00 - 18:30
+Time: 12:30 - 18:30
 Location: Spinhuis
+Sign up [here](https://www.eventbrite.com/e/mining-historical-parliamentary-debates-tickets-92865905423?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing) (tickets are free, places are limited)
 
 
 ## Summary

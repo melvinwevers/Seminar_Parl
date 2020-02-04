@@ -16,7 +16,7 @@ Projects such as [PoliticalMashup](https://www.politicalmashup.nl/) and [DiLiPaD
 |14:00-14:30|[Ida Nijenhuis & Marijn Koolen - REPUBLIC: Extracting Meaning from Structure in Historical Political Corpora](#talk2)|
 |14:30-15:00|[Milan van Lange - Hysteria and Heroism: emotions in debating anti-Nazi resistance in Dutch parliament (1945-1989)](#talk3)|
 |15:00-15:30|Coffee Break|
-|15:30-16:00|[Darja Fišer - TBA](#talk4)|
+|15:30-16:00|[Darja Fišer - Parliamentary corpora at CLARIN ERIC](#talk4)|
 |16:00-16:30|[Kaspar Beelen - Have Women Changed the Political Debate? Studying the Substantive Representation of Women in Postwar Britain](#talk5)|
 |16:30-17:15|Panel Discussion|
 |17:15-18:30|Drinks|
@@ -57,8 +57,9 @@ In his current PhD-project ‘War & Emotions’ he investigates developments in 
  
 <hr/>
 
-### <a name='talk4'>Darja Fišer - Parliamentary data processing</a>
+### <a name='talk4'>Darja Fišer - Parliamentary corpora at CLARIN ERIC</a>
 #### Abstract
+Parliamentary records are easy to obtain and share, and have, due to their influential language and content, always been of great interest for researchers in a wide range of disciplines but also for the media, NGOs and citizens in general. Parliamentary data is being made available in ever larger quantities, is multilingual, has rich metadata, and has the distinguishing characteristic that it is essentially a transcription of spoken language produced in controlled circumstances, which is now increasingly released also in audio and video. This all poses a number of challenges related to its archiving, structuring, synchronizing, visualizing, searching and analysis. Furthermore, adequate approaches to its exploitation also have to take into account the need of researchers from vastly different fields, such as political sciences, sociology, history, and psychology. In this talk, we will present the activities at CLARIN ERIC that related to the improved availability, accessibility, interoperability and comparability of parliamentary corpora within our research infrastructure.
 
 #### Biography
 _Darja Fišer_ is Associate Professor at the Faculty of Arts, University of Ljubljana, and Senior Research Fellow at the Department of Knowledge Technologies, Jožef Stefan Institute. She is currently active in the fields of computer-mediated communication and lexical semantics using corpus-linguistics methods and natural language processing. She is principal investigator of a bilateral research project focused on the analysis of the linguistic landscape of hate speech in social media (LiLaH), project member of an interdisciplinary national basic research project on the resources, tools and methods for the understanding, identification and classification of socially unacceptable discourse in the information society (FRENK), and a collaborator on the H2020 cluster project Social Science and Humanities Open Cloud (SSHOC).

@@ -1,10 +1,11 @@
 # Mining Historical Parliamentary Debates
 
-Date: March 24, 2020 <br />
-Time: 12:30 - 18:30
-Location: Spinhuis
-Sign up [here](https://www.eventbrite.com/e/mining-historical-parliamentary-debates-tickets-92865905423?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing) (tickets are free, places are limited)
+__Date__: March 24, 2020 <br />
+__Time__: 12:30 - 18:30 <br />
+__Location__: Oost-Indisch Huis / NIAS; Korte Spinhuissteeg 3, Conference Room - B3.02, Amsterdam <br />
+__Registration__: Sign up [here](https://www.eventbrite.com/e/mining-historical-parliamentary-debates-tickets-92865905423?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing) (tickets are free, places are limited) <br />
 
+Organized by Melvin Wevers (DHLAB - KNAW Humanities Cluster)
 
 ## Summary
 Projects such as [PoliticalMashup](https://www.politicalmashup.nl/) and [DiLiPaD](https://www.esciencecenter.nl/project/dilipad) have created repositories of digitized historical parliamentary records. In early 2019, the ParlaFormat workshop presented different digitized and annotated corpora of parliamentary data. These resources enable scholars to apply computational methods to study topics and the structure of discourse in such debates. This workshop presents an overview of recent efforts in the field of digital history that studied parliamentary records from the Netherlands, the United Kingdom, and the European Union. This workshop focuses on methods to analyze the data in order to answer historical questions.

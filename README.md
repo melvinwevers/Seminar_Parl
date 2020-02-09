@@ -8,7 +8,7 @@ __Registration__: Sign up [here](https://www.eventbrite.com/e/mining-historical-
 Organized by Melvin Wevers (DHLAB - KNAW Humanities Cluster)
 
 ## Summary
-Projects such as [PoliticalMashup](https://www.politicalmashup.nl/) and [DiLiPaD](https://www.esciencecenter.nl/project/dilipad) have created repositories of digitized historical parliamentary records. In early 2019, the ParlaFormat workshop presented different digitized and annotated corpora of parliamentary data. These resources enable scholars to apply computational methods to study topics and the structure of discourse in such debates. This workshop presents an overview of recent efforts in the field of digital history that studied parliamentary records from the Netherlands, the United Kingdom, and the European Union. This workshop focuses on methods to analyze the data in order to answer historical questions.
+Projects such as [PoliticalMashup](https://www.politicalmashup.nl/) and [DiLiPaD](https://www.esciencecenter.nl/project/dilipad) have created repositories of digitized historical parliamentary records. In early 2019, the ParlaFormat workshop presented different digitized and annotated corpora of parliamentary data. These resources enable scholars to apply computational methods to study topics and the structure of discourse in such debates. This workshop presents an overview of recent efforts in the field of digital history that studied parliamentary records from the Netherlands, the United Kingdom, and the European Union. This seminar focuses on methods to analyze the data in order to answer historical questions.
 
 ## Timetable
 

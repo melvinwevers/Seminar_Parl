@@ -1,4 +1,4 @@
-# Mining Historical Parliamentary Debates
+# Mining Digitized Historical Parliamentary Debates
 
 __Date__: March 24, 2020 <br />
 __Time__: 12:30 - 18:30 <br />
